@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Ejercicio Número 3
+//Ejercicio Número 4
 
 public class Ej4 {
     public static void main(String[] args) throws Exception {
